@@ -1,7 +1,7 @@
 nginx
 influxdb:2.6-alpine
 python:3.8
-jenkins
+jenkins/jenkins
 telegraf
 emqx/emqx
 mysql:5.6

@@ -9,3 +9,4 @@ mysql:5.7
 mysql:8.0
 redis
 python:3.7
+telegraf:1.26.1

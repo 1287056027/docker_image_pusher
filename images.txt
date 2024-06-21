@@ -1,7 +1,6 @@
 nginx
 influxdb:2.6-alpine
 python:3.8
-jenkins/jenkins
 telegraf
 emqx/emqx
 mysql:5.6
@@ -10,3 +9,5 @@ mysql:8.0
 redis
 python:3.7
 telegraf:1.26.1
+jenkins/jenkins:latest-jdk17
+jenkins/jenkins:latest-jdk21

@@ -12,3 +12,4 @@ telegraf:1.26.1
 jenkins/jenkins:latest-jdk17
 jenkins/jenkins:latest-jdk21
 jenkins/jenkins:2.463-jdk17
+jenkins/jenkins:2.452.2-jdk17
